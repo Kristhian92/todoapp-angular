@@ -22,7 +22,7 @@ export class LabsComponent {
   disabled = true;
   img = 'https://w3schools.com/howto/img_avatar.png';
   person = signal({
-    name: '',
+    name: 'kristhian',
     age: 31,
     avatar: 'https://w3schools.com/howto/img_avatar.png',
   });
